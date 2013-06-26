@@ -5129,14 +5129,14 @@ define("dat/dom/CenteredDiv", [
 					remembered: {
 						Default: {
 							0: {
-								color0: "#00aeff",
-								color1: "#0fa954",
-								color2: "#54396e",
-								color3: "#e61d5f",
+								color0: "#d41900",
+								color1: "#245037",
+								color2: "#7f4300",
+								color3: "#1d87e6",
 								message: "(^_^)",
-								speed: 0,
+								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 4.2,
+								maxSize: 3.2,
 								displayOutline: 1
 							}
 						},
@@ -5147,9 +5147,9 @@ define("dat/dom/CenteredDiv", [
 								color2: "#7f4300",
 								color3: "#1d87e6",
 								message: "(^_^)",
-								speed: 0,
+								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 4.2,
+								maxSize: 3.2,
 								displayOutline: 1
 							}
 						},
@@ -5160,9 +5160,9 @@ define("dat/dom/CenteredDiv", [
 								color2: "#0f0802",
 								color3: "#e1e1e1",
 								message: "(^_^)",
-								speed: 0,
+								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 4.2,
+								maxSize: 3.2,
 								displayOutline: 1
 							}
 						}
