@@ -5136,7 +5136,7 @@ define("dat/dom/CenteredDiv", [
 								message: "(^_^)",
 								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 3.2,
+								maxSize: 2.0,
 								displayOutline: 1
 							}
 						},
@@ -5149,7 +5149,7 @@ define("dat/dom/CenteredDiv", [
 								message: "(^_^)",
 								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 3.2,
+								maxSize: 2.0,
 								displayOutline: 1
 							}
 						},
@@ -5162,7 +5162,7 @@ define("dat/dom/CenteredDiv", [
 								message: "(^_^)",
 								speed: 0.1,
 								growthSpeed: 1,
-								maxSize: 3.2,
+								maxSize: 2.0,
 								displayOutline: 1
 							}
 						}
